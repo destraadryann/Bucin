@@ -10,7 +10,7 @@ Rela NgeBucin Demi dapetin kamu 🥴
 <p align="center">
    <img src="https://i.ibb.co/bW4Fh4c/Screenshot-113.png" alt="Github Pages">
 </p>
-4. DEMO Yang sudah di Deploy di Github Pages: https:/https:/destraadryann.github.io/Bucin/
+4. DEMO Yang sudah di Deploy di Github Pages: https://destraadryann.github.io/Maribuka/
 
 ### Deploy dengan Vercel
 1. Daftar Akun Vercel Disini https://vercel.com/signup
